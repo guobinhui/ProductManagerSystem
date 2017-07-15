@@ -1,0 +1,25 @@
+@charset "gb2312";
+/* CSS Document */
+*{
+margin: 0;
+padding: 0;
+font-size: 14px;
+}
+a{
+text-decoration: none;
+}
+/*首页*/
+#index{
+	width: 869px;
+	height: 478px;
+	margin: 0 auto;
+	margin-top: 50px;427 215
+}
+#div1{
+	width: 252px;
+	height: 150px;
+	margin-top: 427px;
+	margin-top: 215px;
+	border-color: red;
+	background-image: 
+}
